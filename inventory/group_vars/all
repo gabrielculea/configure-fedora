@@ -1,6 +1,6 @@
 ---
 
-remove_evolution: yes
+remove_evolution: no
 
 add_google_chrome: yes
 google_chrome_version:
